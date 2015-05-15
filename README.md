@@ -5,3 +5,4 @@ A template Docker image to be used as a Jenkins slave with the Docker Plugin for
 This takes rough inspiration from [evarga/jenkins-slave](https://registry.hub.docker.com/u/evarga/jenkins-slave/), [docker-py](http://docker-py.readthedocs.org/), and [ochopod](https://github.com/autodesk-cloud/ochopod). 
 
 Contact me at lillio.mok@mail.mcgill.ca.
+
